@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Thu Sep 12 19:21:43 UTC 2019 - dmulder@suse.com
+
+- Unused xset may cause exception in appimage
+- 1.5
+
+-------------------------------------------------------------------
 Tue Aug 06 14:54:46 UTC 2019 - dmulder@suse.com
 
 - Provide a more descriptive package name; (bsc#1144530);
